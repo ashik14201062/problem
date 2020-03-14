@@ -1,0 +1,63 @@
+.picture {
+    display: flex ;
+    margin-left: 200px;
+    
+}
+.img {
+    width: 20%;
+    text-align: left;
+    padding: 20px;
+    margin-top: 10px;
+}
+    
+.main-btn{
+    color:black;
+    background-color: palevioletred;
+    width: 200px;
+    height: 40px;
+    padding: 5px;
+    font-size: 500;
+    border: 2px solid black;
+
+}
+.image{
+    height: 200px;
+    width: 200px;
+}
+.name {
+    color: blue;
+    font-weight: 400;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.userName{
+
+    color: crimson;
+   font-size: 20px;
+    font-family: sans-serif;
+    
+}
+.email {
+    
+    color: crimson;
+   font-size: 15px;
+    font-family: sans-serif;
+
+}
+.salary {
+    color: blue;
+    font-weight: 300;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+
+
+}
+
+.information{
+    border: 3px double black;
+    background-color: lightgray;
+    width: 40%;
+    text-align: left;
+    padding: 20px;
+    margin-top: 10px;
+    margin-left: 20px;
+}

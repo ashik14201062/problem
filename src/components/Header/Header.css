@@ -1,0 +1,14 @@
+.header h1 {
+    background-color: aqua;
+    height: 80px;
+    width: 100%;
+    text-align: center;
+    padding: 3px;
+    font-weight: 800;
+    color: red;
+    font-family: sans-serif;
+}
+.header p {
+    text-align: center;
+    color: red;
+}
